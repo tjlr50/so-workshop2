@@ -3,7 +3,7 @@
 
 **Nombre:** Tomas Lemus  
 **Código:** A00054616  
-**Github URL:** https://github.com/tjlr50
+**Github URL:** https://github.com/tjlr50/so-workshop2
 
 ## Descripción
 
