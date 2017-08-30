@@ -1,12 +1,12 @@
 # Taller 2
 
-**Nombre:** student_name  
-**Código:** student_id  
-**Github URL:** github_fork_url
+**Nombre:** tomas lemus  
+**Código:** A00054616
+**Github URL:** https://github.com/tjlr50
 
 ## Descripción
 
-Corta descripción de lo realizado en el taller
+
 
 ## Referencias
 
