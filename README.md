@@ -9,6 +9,9 @@
 
 la incorporacion de multiprogramacion y multiprocesamiento en los computadores
 
+
+ https://drive.google.com/drive/folders/0B1TCxw1dJQ0pOHR0STJ3RWZ2T1E?usp=sharing 
+
 ## Referencias
 
 http://faculty.salina.k-state.edu/tim/ossg/Introduction/OShistory.html  
