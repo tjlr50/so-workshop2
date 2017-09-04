@@ -7,7 +7,7 @@
 
 ## Descripción
 
-Corta descripción de lo realizado en el taller
+la incorporacion de multiprogramacion y multiprocesamiento en los computadores
 
 ## Referencias
 
